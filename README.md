@@ -1,0 +1,1 @@
+# plugins-wp-author-date-and-meta-remover
